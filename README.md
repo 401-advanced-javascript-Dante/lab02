@@ -7,8 +7,8 @@
 
 ### Links and Resources
 
-- [submission PR](https://github.com/401-advanced-javascript-Dante/lab01/pull/1)
-- [ci/cd](https://github.com/401-advanced-javascript-Dante/lab01/commit/2d079d2bfcc59be5c07a1e855b1ab723c498a3ce/checks?check_suite_id=415256846) (GitHub Actions)
+- [submission PR](https://github.com/401-advanced-javascript-Dante/lab02/pull/1)
+- [ci/cd](https://github.com/401-advanced-javascript-Dante/lab02/commit/7b549920ada744c746b2eead4139d165a54d8319/checks?check_suite_id=418860534) (GitHub Actions)
 
 ### Setup
 
@@ -30,4 +30,4 @@ all test solved .
 #### UML
 
 Link to an image of the UML for your application and response to events
-https://i.ibb.co/h8XJ0Wg/IMG-0658.jpg
+![classes](https://i.ibb.co/FqwntpL/classes.jpg)
